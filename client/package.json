@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "vite --host",
-    "build": "vite build && npm run start",
+    "build": "npm install && vite build && npm run start",
     "preview": "vite preview --host",
     "start": "serve -s public",
     "heroku-postbuild": "npm run build"
