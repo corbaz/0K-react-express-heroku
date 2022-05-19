@@ -1,7 +1,7 @@
 cls
 rem git rm -r --cached node_modules
 
-git remote add origin https://github.com/corbaz/0K-react-express-heroku.git
+git remote add heroku https://git.heroku.com/jcc-react.git
 git branch -M main
 git add .
 git commit -am "Final"

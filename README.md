@@ -48,9 +48,14 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 ## ProTip! Use the URL for this page when adding GitHub as a remote.
 
+---
+
 GITHUB - Pages
 
 heroku https://git.heroku.com/jcc-react.git (fetch)
+
 heroku https://git.heroku.com/jcc-react.git (push)
+
 origin https://github.com/corbaz/0K-react-express-heroku.git (fetch)
+
 origin https://github.com/corbaz/0K-react-express-heroku.git (push)
