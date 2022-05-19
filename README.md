@@ -59,3 +59,6 @@ heroku https://git.heroku.com/jcc-react.git (push)
 origin https://github.com/corbaz/0K-react-express-heroku.git (fetch)
 
 origin https://github.com/corbaz/0K-react-express-heroku.git (push)
+
+heroku create jcc-react
+heroku buildpacks:set heroku/nodejs
