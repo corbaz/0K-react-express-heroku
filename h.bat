@@ -17,8 +17,6 @@ rem Re-deploy the application using the new default branch:
 
 rem git push heroku main
 
-
-
 cls
 rem git rm -r --cached node_modules
 git remote add heroku https://git.heroku.com/jcc-react.git
