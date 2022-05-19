@@ -1,0 +1,20 @@
+{
+  "name": "0k-react-express-heroku",
+  "version": "0.0.1",
+  "description": "…or create a new repository on the command line\r echo \"# react-express-heroku\" >> README.md",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd client && npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corbaz/react-express-heroku.git"
+  },
+  "author": "Julio Cesar Corbaz <julio.corbaz@gmail.com> (https://juliocorbaz.000webhostapp.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corbaz/react-express-heroku/issues"
+  },
+  "homepage": "https://github.com/corbaz/react-express-heroku#readme"
+}
