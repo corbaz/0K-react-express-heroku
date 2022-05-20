@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="p-5">
       <div className="App p-5">
-        <button className="btn ">github page - heroku</button>
+        <button className="btn ">HEROKU</button>
       </div>
       <nav className="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-800 ">
         <div className="container flex flex-wrap justify-between items-center mx-auto">
