@@ -3,16 +3,15 @@
   "private": true,
   "version": "1.0.0",
   "engines": {
-    "node": "16.15",
+    "node": "16.13.2",
     "npm": "8.5.5"
   },
   "scripts": {
-    "install": "npm install",
     "dev": "vite --host",
     "build": "npm install && vite build && npm run start",
     "preview": "vite preview --host",
     "start": "serve -s public",
-    "heroku-postbuild": "npm run install && npm run build && npm run start"
+    "heroku-postbuild": "npm install && npm run build && npm run start"
   },
   "dependencies": {
     "daisyui": "^2.15.0",
