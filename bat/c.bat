@@ -1,4 +1,4 @@
 cls 
-cd C:\www\0K-react-express-heroku\bat
+cd C:\www\0K-react-express-heroku\
 
 dir

@@ -8,10 +8,10 @@
   },
   "scripts": {
     "dev": "vite --host",
-    "build": "npm install && vite build && npm run start",
+    "build": "npm install && vite build",
     "preview": "vite preview --host",
     "start": "serve -s public",
-    "heroku-postbuild": "npm install && npm run build && npm run start"
+    "heroku-postbuild": "npm run build"
   },
   "dependencies": {
     "daisyui": "^2.15.0",
