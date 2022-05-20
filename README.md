@@ -62,3 +62,14 @@ origin https://github.com/corbaz/0K-react-express-heroku.git (push)
 
 heroku create jcc-react
 heroku buildpacks:set heroku/nodejs
+
+
+https://flowbite.com/docs/getting-started/react/
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+git remote add origin https://github.com/corbaz/React18.git
+
+julio.corbaz@gmail.com
+
