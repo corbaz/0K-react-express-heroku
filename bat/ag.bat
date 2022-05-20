@@ -13,7 +13,6 @@ echo Crea una nueva rama local.
 echo git checkout -b new-branch
 echo.
 
-
 echo Raname branch
 echo git branch -m new-branch-name
 echo.
