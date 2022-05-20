@@ -22,5 +22,5 @@ git rm -r --cached node_modules
 rem git remote add heroku https://git.heroku.com/jcc-react.git
 git add .
 git commit -am "Final"
-git push heroku dev:main 
+git push heroku heroku:main 
 
