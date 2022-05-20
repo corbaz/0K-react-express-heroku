@@ -10,8 +10,7 @@
     "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview --host",
-    "start": "vite start --host",
-    "publish": "vite publish --host"
+    "publish": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "daisyui": "^2.15.0",
