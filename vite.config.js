@@ -8,10 +8,10 @@ export default defineConfig({
     port: 2736
   },
   preview: {
-    port: 8080
+    port: 2732
   },
   build: {
-    outDir: './public',
+    outDir: './dist',
   },
 
   plugins: [react()]
