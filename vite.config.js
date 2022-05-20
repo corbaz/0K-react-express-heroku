@@ -10,6 +10,7 @@ export default defineConfig({
   preview: {
     port: 2732
   },
+  base: '/0K-react-express-heroku/',
   build: {
     outDir: './dist',
   },
